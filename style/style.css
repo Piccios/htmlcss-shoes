@@ -29,8 +29,9 @@ footer{
 }
 
 header > nav{
-    display: flex;
-    justify-content: end;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 
 header > nav > button > a{
