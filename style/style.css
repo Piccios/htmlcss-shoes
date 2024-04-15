@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     font-family: "indie Flower", cursive, sans-serif;
 }
@@ -45,8 +49,6 @@ button{
     padding: 1rem 1.5rem;  
     cursor: pointer;
 }
-
-
 
 section{
     display: flex;
